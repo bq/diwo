@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/programming/Play.sh
+Name=Play
+Comment=command to start
+Icon=/programming/bq.png
