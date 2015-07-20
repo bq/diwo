@@ -6,7 +6,7 @@ int pinBuzzer = 5;
 void setup() {
 
 	// pines bat 1
-	pinMode(EP1, INPUT;)
+	pinMode(EP1, INPUT);
 	pinMode(TP1, OUTPUT);
 
 	// pines bat 2
